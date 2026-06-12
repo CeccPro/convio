@@ -1,5 +1,4 @@
 # Convio
-
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![GPLv3](https://img.shields.io/badge/license-GPLv3-green)
 ![Linux](https://img.shields.io/badge/platform-Linux-orange)
@@ -26,7 +25,7 @@ git clone https://github.com/CeccPro/convio.git
 2. Navegar al directorio del proyecto:
 ```bash
 cd convio
-    ```
+```
 
 3. Compilar el proyecto:
 ```bash
@@ -86,20 +85,20 @@ La API de plugins y algunos formatos soportados pueden cambiar entre versiones. 
 
 ## Contribuir
 Si deseas contribuir al proyecto, puedes seguir estos pasos:
-1. Fork el repositorio.
-2. Crea una nueva rama para tu característica o corrección de errores:
+### 1. Fork el repositorio.
+### 2. Crea una nueva rama para tu característica o corrección de errores:
 ```bash
 git checkout -b feature/nueva-caracteristica
 ```
-3. Realiza tus cambios y haz commit de ellos:
+### 3. Realiza tus cambios y haz commit de ellos:
 ```bash
 git commit -m "Agrega nueva característica"
 ```
-4. Empuja tus cambios a tu fork:
+### 4. Empuja tus cambios a tu fork:
 ```bash
-    git push origin feature/nueva-caracteristica
+git push origin feature/nueva-caracteristica
 ```
-5. Abre un Pull Request en el repositorio original.
+### 5. Abre un Pull Request en el repositorio original.
 
 ## Licencia
 Convio está licenciado bajo la Licencia GNU General Public License v3.0 (GPLv3). Consulta el archivo LICENSE para más detalles.
