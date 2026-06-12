@@ -4,6 +4,7 @@
 ![GPLv3](https://img.shields.io/badge/license-GPLv3-green)
 ![Linux](https://img.shields.io/badge/platform-Linux-orange)
 ![macOS](https://img.shields.io/badge/platform-macOS-lightgrey)
+---
 Convio es una herramienta de línea de comandos (CLI) de código abierto desarrollada en C++ para la conversión de archivos entre formatos compatibles. Utiliza un sistema de plugins dinámicos para permitir la adición de nuevos formatos de archivo sin necesidad de modificar el código base. Convio determina automáticamente una ruta de conversión entre formatos compatibles utilizando los plugins instalados. Convio es fácil de usar y altamente personalizable, lo que lo convierte en una solución ideal para desarrolladores, diseñadores y cualquier persona que necesite convertir archivos de manera eficiente.
 
 ## Características
